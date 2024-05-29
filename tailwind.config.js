@@ -1,4 +1,3 @@
-/** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
     "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
@@ -11,6 +10,18 @@ module.exports = {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      },
+      fontFamily: {
+        poppins: ["var(--font-poppins)", "sans-serif"],
+        openSans: ["var(--font-open-sans)", "sans-serif"],
+      },
+      colors: {
+        Violet: "hsl(257, 40%, 49%)",
+        SoftMagenta: "hsl(300, 69%, 71%)",
+      },
+      backgroundImage: {
+        'BgImgM': "url('/images/bg-mobile.svg')",
+        'BgImgD': "url('/images/bg-desktop.svg')",
       },
     },
   },
