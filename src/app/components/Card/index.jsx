@@ -29,7 +29,7 @@ const index = () => {
       {/* sec card */}
       <div className="relative md:w-[40%] w-full h-full text-white font-openSans flex flex-col items-center justify-center gap-8 lg:translate-x-16 min-[1440px]:translate-x-0 ">
         <div className="flex flex-col md:gap-5 gap-10 items-center md:items-start">
-          <h1 className="text-3xl font-bold font-poppins text-center md:text-start leading-relaxed xl:w-[60%]">
+          <h1 className="text-3xl font-bold font-poppins text-center md:text-start leading-relaxed 2xl:w-[70%] xl:w-[80%]">
             {" "}
             Build The Community Your Fans Will Love
           </h1>
