@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Anass-gouzgar/Huddle-landing-page-with-a-single-introductory-section)
-- Live Site URL:()
+- Live Site URL:(https://huddle-landiing-page.vercel.app/)
 
 ## My process
 
